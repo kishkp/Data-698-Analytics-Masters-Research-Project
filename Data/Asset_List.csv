@@ -1,0 +1,68 @@
+Asset_Class,Ticker,Description
+Alternatives - Commodity,IAU,iShares Gold Trust
+Alternatives - Commodity,SLV,iShares Silver Trust
+Alternatives - Commodity,USO,United States Commodity Fund - Oil
+Alternatives - REIT,IYR,iShares US Real Estate
+Alternatives - REIT,RWX,SPDR DJ Intl Real Estate
+US Equity - Broad Mrkt,VTI,Vanguard Total Stock Mrkt
+US Equity - Broad Mrkt,DVY,iShares Dividend
+US Equity - Large-Cap Blend,SPY,SPDR S&P 500
+US Equity - Large-Cap Blend,DIA,SPDR DJIA
+US Equity - Large-Cap Blend,RSP,Guggenheim S&P 500 Equal Weighted
+US Equity - Large-Cap Blend,IWB,iShares Russell 1000
+US Equity - Large-Cap Blend,VYM,Vanguard High Dividend Yield
+US Equity - Large-Cap Growth,IWF,iShares Russell 1000 Growth
+US Equity - Large-Cap Value,IWD,iShares Russell 1000 Value
+US Equity - Mid-Cap Blend,MDY,SPDR S&P MidCap 400
+US Equity - Small-Cap Blend,IWM,iShares Russell 2000
+US Equity - Small-Cap Value,IWN,iShares Russell 2000 Value
+US Equity - Small-Cap Growth,IWO,iShares Russell 2000 Growth
+US Equity - Large-Cap Blend,XLY,SPDR Consumer Discretionary
+US Equity - Large-Cap Blend,XLP,SPDR Consumer Staples
+US Equity - Large-Cap Blend,XLE,SPDR Energy
+US Equity - Large-Cap Blend,XLF,SPDR Financials
+US Equity - Large-Cap Blend,XLV,SPDR Health Care
+US Equity - Large-Cap Blend,XLI,SPDR Industrials
+US Equity - Large-Cap Blend,XLB,SPDR Materials
+US Equity - Large-Cap Blend,XLK,SPDR Technology
+US Equity - Large-Cap Blend,XLU,SPDR Utilities
+Intl Equity - All World Ex-US,VEU,Vanguard FTSE All - World EX - US
+Intl Equity - Developed Mrkts,SCZ,iShares EAFE Small - Cap
+Intl Equity - Developed Mrkts,EZU,iShares Eurozone
+Intl Equity - Developed Mrkts,EFA,iShares EAFE
+Intl Equity - Developed Mrkts,AAXJ,iShares All Country Asia
+Intl Equity - Developed Mrkts,EWU,iShares United Kingdon
+Intl Equity - Developed Mrkts,EWL,iShares Switzerland Cap
+Intl Equity - Developed Mrkts,EWI,iShares Italy
+Intl Equity - Developed Mrkts,EWJ,iShares Japan
+Intl Equity - Developed Mrkts,EWH,iShares Hong Kong
+Intl Equity - Developed Mrkts,EWQ,iShares France
+Intl Equity - Developed Mrkts,EWG,iShares Germany
+Intl Equity - Developed Mrkts,EWA,iShares Australia
+Intl Equity - Developed Mrkts,EWC,iShares Canada
+Intl Equity - Developed Mrkts,EWS,iShares Singapore
+Intl Equity - Developed Mrkts,EWP,iShares Spain ET
+Intl Equity - Developed Mrkts,EWM,iShares Malaysia
+Intl Equity - Developed Mrkts,EWW,iShares Mexico
+Intl Equity - Emerging Mrkts,EEM,iShares Emerging Mrkt
+Intl Equity - Emerging Mrkts,ILF,iShares Latin America 40
+Intl Equity - Emerging Mrkts,EWZ,iShares Brazil
+Intl Equity - Emerging Mrkts,EWY,iShares South Korea
+Intl Equity - Emerging Mrkts,PIN,Powershares India
+Intl Equity - Emerging Mrkts,FXI,iShares China Large - Cap
+Intl Equity - Emerging Mrkts,EZA,iShares South Africa
+Intl Equity - Emerging Mrkts,EWT,iShares Taiwan
+Bonds - US Government,TLT,iShares 20+ Yr Treasury
+Bonds - US Government,IEF,iShares 7 - 10 Yr Treasury
+Bonds - US Government,SHY,iShares 1 - 3 Yr Treasury
+Bonds - Sovereigns,BWX,SPDR BBG Barclays Intl Treasury
+Bonds - Emerging Mrkt,EMB,iShares JP Morgan USD Emerging
+Bonds - Emerging Mrkt,PCY,Powershares Em Mrkt Sovr Debt
+Bonds - Aggregate Bond,AGG,iShares Core U.S. Aggregate
+Bonds - Aggregate Bond,BSV,Vanguard Short - Term Bond
+Bonds - Aggregate Bond,BIV,Vanguard Intermediate - Term Bond
+Bonds - Corporate,HYG,iShares High Yield Bonds
+Bonds - Corporate,LQD,iShares Investment Grade
+Bonds - Mortgage-Backed,MBB,iShares MBS
+Bonds - Preferred,PFF,iShares US Preferred Stock
+Bonds - Inflation Protected,TIP,iShares TIPS Bond
